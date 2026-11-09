@@ -1,0 +1,3 @@
+kagglehub
+mysql-connector-python
+python-dotenv
